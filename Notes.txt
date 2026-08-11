@@ -1,1 +1,3 @@
 Current goal: UEFI application that prints "Hello, world!"
+https://www.rodsbooks.com/efi-programming/hello.html
+Fedora packages installed: gcc gnu-efi gnu-efi-devel qemu-kvm edk2-ovmf
