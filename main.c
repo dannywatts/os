@@ -4,7 +4,6 @@
 EFI_STATUS EFIAPI efi_main(EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable) {
     InitializeLib(ImageHandle, SystemTable);
     Print(L"Hello, world!\n");
-    // SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Hello, world!\r\n");
 
     return EFI_SUCCESS;
 }
