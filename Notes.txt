@@ -4,3 +4,4 @@ Goals:
 https://www.rodsbooks.com/efi-programming/hello.html
 https://wiki.osdev.org/GNU-EFI
 Fedora packages installed: gcc gnu-efi gnu-efi-devel qemu-kvm edk2-ovmf
+Ubuntu packages installed: gcc gnu-efi qemu-system ovmf
