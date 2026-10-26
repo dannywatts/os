@@ -3,7 +3,10 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/include/efi",
+                "/usr/include/efi/x86_64",
+                "/usr/include/efi/protocol"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
