@@ -6,7 +6,7 @@ The name isn't that original because this is simply the fruit of my interest in 
 | Goal                                          | Status    |
 | ---                                           | ---       |
 | UEFI application that prints "Hello, world!"  | &#x2705;  |
-| Clean up and document code                    | &#x231B;  |
+| Clean up and document code                    | &#x2705;  |
 
 ## Build environment
 | Software  | Ubuntu package(s) (tested via WSL)    | Fedora package(s)             |
