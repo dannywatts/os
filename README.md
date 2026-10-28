@@ -7,6 +7,9 @@ The name isn't that original because this is simply the fruit of my interest in 
 | ---                                           | ---       |
 | UEFI application that prints "Hello, world!"  | &#x2705;  |
 | Clean up and document code                    | &#x2705;  |
+| Display text without UEFI services            | &#x1F51C; |
+| Port display code to separate executable      | &#x1F51C; |
+| Load and launch executable                    | &#x1F51C; |
 
 ## Build environment
 | Software  | Ubuntu package(s) (tested via WSL)    | Fedora package(s)             |
